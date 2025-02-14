@@ -10,11 +10,11 @@ Execution time calculation of Counting sort method using five different programm
 ### Step-by-Step
 1. Clone this repository
 ``` bash
-git clone https://github.com/KidmanC/Dockerbase.git
+git clone https://github.com/adechlien/dockerbase.git
 ```
 2. Move to Dockerbase directory
 ```
-cd Dockerbase
+cd dockerbase
 ```
 3. Build the Image
 ```
