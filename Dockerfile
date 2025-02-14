@@ -4,7 +4,7 @@ FROM docker:dind
 RUN apk add --no-cache git bash
 
 # Clona el primer repositorio
-RUN git clone https://github.com/KidmanC/Docker /app
+RUN git clone https://github.com/adechlien/docker /app
 
 # Establece el directorio de trabajo
 WORKDIR /app
